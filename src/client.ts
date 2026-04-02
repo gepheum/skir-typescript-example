@@ -1,4 +1,4 @@
-// Sends RPCs to a skir service from the browser or Node.js.
+// Sends RPCs to a SkirRPC service from the browser or Node.js.
 //
 // To run from the browser, run:
 //   npm run server

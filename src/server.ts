@@ -1,4 +1,4 @@
-// Starts a skir service at http://localhost:8787/?myapi
+// Starts a SkirRPC service at http://localhost:8787/?myapi
 //
 // Run with:
 //   npm run server

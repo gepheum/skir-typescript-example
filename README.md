@@ -22,7 +22,7 @@ npm run build
 npm run server
 ```
 
-## Call a skir service from the browser
+## Call a SkirRPC service from the browser
 
 While the server is running, run:
 

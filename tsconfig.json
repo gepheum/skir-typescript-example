@@ -18,6 +18,7 @@
     "outDir": "./dist",
     "sourceMap": true,
     "strict": true,
+    "noImplicitOverride": true,
     "target": "ES2020"
   },
 }
